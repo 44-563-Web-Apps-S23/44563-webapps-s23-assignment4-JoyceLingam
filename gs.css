@@ -1,0 +1,85 @@
+h5.MRS-DELANE {
+    font:bold;
+    color: red;
+    font-size: 15px;
+    font-style:inherit;
+}
+h5.MR-QUIRKE:hover {
+    text-shadow: 20px 20px 30px blueviolet;
+    border-bottom: black solid;
+    font-size: 30px;
+}
+h5.MR-QUIRKE{
+    font:bold;
+    color:aqua;
+    font-size: 15px;
+    font-style: oblique;
+}
+p.speech{
+    font: 10px;
+    color: red;
+    font-family:serif, 'monospace', Times, sans serif;
+}
+p.direction{
+    font: 10px;;
+    color: pink;
+    background-color: lightblue;
+    font-family:arial, verdana, sans-serif;
+}
+p.direction:hover {
+    background-color:lightgrey;
+    color: blue;
+    
+}
+h5:hover {
+    text-shadow: 20px 20px 30px gray;
+    border-bottom: black solid;
+    font-size: 30px;
+}
+h5.MR.QUIRKE:hover {
+    text-shadow: 20px 20px 30px blueviolet;
+    border-bottom: black solid;
+    font-size: 30px;
+}
+h5.MISS-JOYCE{
+    font:bold;
+    color:aqua;
+    font-size: 15px;
+    font-style: oblique;
+}
+table { 
+    color: black;
+    /*width: 300px;*/
+    margin: 25px 25px 25px;   
+    
+    }
+table,th,td{
+    padding: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td {
+       
+    color:brown;
+    text-align: center;
+
+}
+th{
+      
+    font: bold;
+    color: rgb(54, 3, 109);
+    text-align: center;
+    background-color: bisque;
+}
+tr:nth-child(even) {
+    background-color: #fff;
+  }
+  tr:nth-child(odd) {
+    background-color: #ddd;
+  }
+
+  img {
+    display: block;
+    width:100% ;
+  }
